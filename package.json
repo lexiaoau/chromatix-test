@@ -6,7 +6,10 @@
   "scripts": {
     "start": "nodemon src/index.js localhost 8080"
   },
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "xml2js-parser": "^1.1.1"
+  },
   "devDependencies": {
     "nodemon": "1.18.4"
   },
